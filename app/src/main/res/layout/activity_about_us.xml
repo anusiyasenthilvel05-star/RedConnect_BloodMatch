@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- App Title -->
+        <TextView
+            android:id="@+id/txtAppTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RedConnect"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="#B71C1C"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"/>
+
+        <!-- App Description -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RedConnect is a smart blood donation app that connects donors and recipients quickly and safely during emergencies."
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Recipient Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For Recipients"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#B71C1C"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Register and login.\n• Search for blood donors based on blood group.\n• Send donation request.\n• Confirm donation after completion.\n• Provide feedback and rating."
+            android:textSize="15sp"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Donor Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For Donors"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#B71C1C"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="• Register as blood donor.\n• Update availability status.\n• Accept or reject requests.\n• Donate blood at hospital.\n• View donation history and ratings."
+            android:textSize="15sp"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- How It Works -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How RedConnect Works"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#B71C1C"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. Recipient searches donor.\n2. Sends request.\n3. Donor accepts request.\n4. Donation completed.\n5. Feedback and rating submitted."
+            android:textSize="15sp"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Mission -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Our Mission"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#B71C1C"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To save lives by making blood donation simple, fast, and reliable using technology."
+            android:textSize="15sp"
+            android:layout_marginBottom="30dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

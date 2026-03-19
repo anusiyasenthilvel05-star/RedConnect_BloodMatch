@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="RedConnect"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RedConnectlogo">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBmxKyIB0tAHmxrLowDFKxc4pra8tH1PRg"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"/>
+
+        <activity
+            android:name=".VerificationActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ResetPasswordActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".AboutUsActivity" />
+        <activity
+            android:name=".SelectionActivity"/>
+        <activity
+            android:name=".DonorRegistrationActivity"/>
+        <activity
+            android:name=".BloodRequestFormActivity"/>
+        <activity
+            android:name=".SelectLocationActivity"/>
+        <activity
+            android:name=".MatchingListActivity"/>
+        <activity
+            android:name=".FeedbackActivity"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/emailInput"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Enter your email"
+        android:inputType="textEmailAddress"/>
+
+    <Button
+        android:id="@+id/btnSendLink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_verification_link"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/btnCheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/check_verification"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

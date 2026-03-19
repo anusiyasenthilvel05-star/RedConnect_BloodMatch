@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469662093313",
+    "project_id": "redconnect-864c4",
+    "storage_bucket": "redconnect-864c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469662093313:android:ce8982b1c765f5d9d3f000",
+        "android_client_info": {
+          "package_name": "com.example.redconnectlogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVlBc3Sbd5J_eMvqIQTdWPsYTMkqJV4CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

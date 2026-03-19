@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedConnectlogo</string>
+    <string name="check_verification">Check Verification</string>
+    <string name="send_verification_link">Send Verification Link</string>
+    <string name="enter_your_email">Enter your email</string>
+</resources>
