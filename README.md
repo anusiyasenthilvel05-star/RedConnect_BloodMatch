@@ -205,3 +205,4 @@ Anusiya S , Pavithra R, Manjusri K, Keerthana S
 This project is built for educational  purposes to demonstrate real-time emergency response using mobile technology.
 
 ---
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 35 AM" src="https://github.com/user-attachments/assets/d6be92b3-9331-41ff-a044-eb820a1a176a" />
