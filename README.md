@@ -206,3 +206,14 @@ This project is built for educational  purposes to demonstrate real-time emergen
 
 ---
 <img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 35 AM" src="https://github.com/user-attachments/assets/d6be92b3-9331-41ff-a044-eb820a1a176a" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 34 AM" src="https://github.com/user-attachments/assets/972309e1-9a36-4d30-9593-c74c9667207d" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 37 AM (1)" src="https://github.com/user-attachments/assets/8a1364e6-58e8-4643-a69d-5bea66d14d89" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 35 AM (1)" src="https://github.com/user-attachments/assets/bcfd68bd-971d-4d4e-bb0c-907d8bdca145" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 36 AM" src="https://github.com/user-attachments/assets/01ccb6df-2635-4702-b34e-c0b6db59ab23" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 36 AM (1)" src="https://github.com/user-attachments/assets/105fd8bb-08b9-4031-9cc8-5b302539eb2e" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-25 at 9 26 37 AM" src="https://github.com/user-attachments/assets/e6cef2a1-f930-4de8-aee1-67fae9d0fd2e" />
+
+
+
